@@ -4,4 +4,5 @@ changes from remote
 hey
 
 hey2
+change for squash1
 
